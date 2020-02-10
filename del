@@ -1,0 +1,3 @@
+.questionnaire .dropdown .custom-select.opened .custom-options {
+    z-index: 9999;
+}
